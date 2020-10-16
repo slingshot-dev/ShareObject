@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26f0c513-a462-4686-9edd-6d390465761f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SharedObjects2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SharedObjects2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SharedObjects2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SharedObjects2" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\s636600\envdev\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iwvSxAi3rb4dSlmafK5gouSqgZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.53137255" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Gradle.SharedObjects2 [build]">
+    <configuration name="SharedObjects2 [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SharedObjects2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SharedObjects2 [assemble]" />
+        <item itemvalue="Gradle.SharedObjects2 [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26f0c513-a462-4686-9edd-6d390465761f" name="Default Changelist" comment="" />
+      <created>1602831471081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602831471081</updated>
+      <workItem from="1602831475097" duration="1080000" />
+      <workItem from="1602832716244" duration="31000" />
+      <workItem from="1602834205194" duration="7544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="11" key="#Project_Structure" timestamp="1602849848770">
+      <screen x="1920" y="-167" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602831838710" />
+    <state x="2472" y="11" key="#Project_Structure/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602849848770" />
+    <state x="-1155" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1602838616006">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838616006" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602834250561" />
+    <state x="719" y="206" key="FileChooserDialogImpl" timestamp="1602848331961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="206" key="FileChooserDialogImpl/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848331961" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1602848342975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="97" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622458" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1602848342975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="97" key="GridCell.Tab.0.center/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622457" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1602848342975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="97" key="GridCell.Tab.0.left/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622457" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1602848342975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="97" key="GridCell.Tab.0.right/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622457" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
+    <state x="776" y="79" key="SettingsEditor" timestamp="1602849771024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848337091" />
+    <state x="776" y="79" key="SettingsEditor/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602849771024" />
+  </component>
+</project>
