@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26f0c513-a462-4686-9edd-6d390465761f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/SharedObjects2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/SharedObjects2-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/SharedObjects2-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modeles/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modeles/Provider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +200,9 @@
       <workItem from="1602834205194" duration="19209000" />
       <workItem from="1603291149116" duration="1998000" />
       <workItem from="1603365953641" duration="1236000" />
+      <workItem from="1604242285383" duration="3856000" />
+      <workItem from="1605083939806" duration="1486000" />
+      <workItem from="1605115233143" duration="394000" />
     </task>
     <servers />
   </component>
@@ -212,10 +215,11 @@
     </state>
     <state x="552" y="178" key="#Project_Structure/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602831838710" />
     <state x="2472" y="11" key="#Project_Structure/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602849848770" />
-    <state x="-1155" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1602838616006">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="2685" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1604477358771">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1155" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838616006" />
+    <state x="2685" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604477358771" />
     <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602834250561" />
     <state x="2639" y="206" key="FileChooserDialogImpl" timestamp="1603291911600">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -223,31 +227,35 @@
     <state x="719" y="206" key="FileChooserDialogImpl/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848331961" />
     <state x="2639" y="39" key="FileChooserDialogImpl/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602856831637" />
     <state x="2639" y="206" key="FileChooserDialogImpl/965.1080.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603291911600" />
-    <state width="1877" height="263" key="GridCell.Tab.0.bottom" timestamp="1603291874552">
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom" timestamp="1604914777099">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="97" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622458" />
+    <state width="1877" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604914777099" />
     <state width="1877" height="284" key="GridCell.Tab.0.bottom/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602863142016" />
     <state width="1877" height="263" key="GridCell.Tab.0.bottom/965.1080.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603291874552" />
-    <state width="1877" height="263" key="GridCell.Tab.0.center" timestamp="1603291874552">
+    <state width="1877" height="263" key="GridCell.Tab.0.center" timestamp="1604914777099">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="97" key="GridCell.Tab.0.center/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622457" />
+    <state width="1877" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604914777099" />
     <state width="1877" height="284" key="GridCell.Tab.0.center/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
     <state width="1877" height="348" key="GridCell.Tab.0.center/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602863142016" />
     <state width="1877" height="263" key="GridCell.Tab.0.center/965.1080.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603291874552" />
-    <state width="1877" height="263" key="GridCell.Tab.0.left" timestamp="1603291874552">
+    <state width="1877" height="263" key="GridCell.Tab.0.left" timestamp="1604914777099">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="97" key="GridCell.Tab.0.left/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622457" />
+    <state width="1877" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604914777099" />
     <state width="1877" height="284" key="GridCell.Tab.0.left/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
     <state width="1877" height="348" key="GridCell.Tab.0.left/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602863142016" />
     <state width="1877" height="263" key="GridCell.Tab.0.left/965.1080.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603291874552" />
-    <state width="1877" height="263" key="GridCell.Tab.0.right" timestamp="1603291874552">
+    <state width="1877" height="263" key="GridCell.Tab.0.right" timestamp="1604914777099">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="97" key="GridCell.Tab.0.right/0.0.1600.860/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602838622457" />
+    <state width="1877" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604914777099" />
     <state width="1877" height="284" key="GridCell.Tab.0.right/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602848342975" />
     <state width="1877" height="348" key="GridCell.Tab.0.right/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602863142016" />
     <state width="1877" height="263" key="GridCell.Tab.0.right/965.1080.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1603291874552" />
@@ -272,9 +280,10 @@
     </state>
     <state x="459" y="122" key="SettingsEditor/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602862207461" />
     <state x="2189" y="12" width="1202" height="755" key="SettingsEditor/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602862789659" />
-    <state x="2472" y="85" key="Vcs.Push.Dialog.v2" timestamp="1602850011150">
-      <screen x="1920" y="-167" width="1920" height="1040" />
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604242461970">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604242461970" />
     <state x="2472" y="85" key="Vcs.Push.Dialog.v2/939.1080.1920.1040/1920.-167.1920.1040/0.0.1920.1040@1920.-167.1920.1040" timestamp="1602850011150" />
     <state x="2536" y="157" width="672" height="677" key="run.anything.popup" timestamp="1602852269250">
       <screen x="1920" y="-167" width="1920" height="1040" />
